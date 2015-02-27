@@ -1,0 +1,78 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M99.394 402.252c0 185.028 150.16 335.188 335.188 335.188s335.054-150.16 335.054-335.188c0-178.215-139.072-323.832-314.347-334.52h-41.281c-175.543 10.821-314.614 156.439-314.614 334.52z",
+					"M790.21 67.866c83.63 88.974 131.991 207.873 131.991 332.249 0 102.333-30.593 206.537-95.787 295.11l156.172 154.168-108.345 106.341-157.24-153.233c-81.225 57.446-178.348 90.043-279.613 90.043-136.4 0-253.161-50.766-338.661-130.789v194.647h888.535v-888.535h-197.052z"
+				],
+				"attrs": [
+					{},
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1069,
+				"grid": 0,
+				"tags": [
+					"qiita_official"
+				]
+			},
+			"attrs": [
+				{},
+				{}
+			],
+			"properties": {
+				"order": 2,
+				"id": 0,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "qiita_official"
+			},
+			"setIdx": 0,
+			"iconIdx": 0
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "qiita_icon",
+		"url": "https://qiita.com/"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "qi-ico-",
+			"metadata": {
+				"fontFamily": "qiita_icon",
+				"majorVersion": 1,
+				"minorVersion": 0,
+				"fontURL": "https://qiita.com/",
+				"description": "Qiita",
+				"copyright": "Increments Inc."
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"showSelector": true,
+			"selector": "class",
+			"classSelector": ".qi-ico",
+			"showMetrics": false,
+			"showMetadata": true,
+			"showVersion": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
+		},
+		"historySize": 100,
+		"showCodes": true
+	}
+}
